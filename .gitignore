@@ -1,0 +1,3 @@
+# Source business data stays local: it contains costs and margins
+data/
+.DS_Store
